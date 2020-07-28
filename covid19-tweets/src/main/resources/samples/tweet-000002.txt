@@ -1,0 +1,550 @@
+{
+	"created_at": "Tue Jul 21 15:55:16 +0000 2020",
+	"id": 1285604264728043520,
+	"id_str": "1285604264728043520",
+	"text": "RT @ProjectLincoln: So, it's a Trump Rally.",
+	"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 1331825496,
+		"id_str": "1331825496",
+		"name": "Juan Floyd-Thomas",
+		"screen_name": "drjmftspeaks",
+		"location": null,
+		"url": null,
+		"description": "Historian of faith, culture, and ideas / Husband / Father / Son / Professor / 1st generation Jamerican",
+		"translator_type": "none",
+		"protected": false,
+		"verified": false,
+		"followers_count": 441,
+		"friends_count": 420,
+		"listed_count": 19,
+		"favourites_count": 21040,
+		"statuses_count": 56122,
+		"created_at": "Sat Apr 06 15:22:14 +0000 2013",
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": true,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_tile": false,
+		"profile_link_color": "1DA1F2",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"profile_image_url": "http://pbs.twimg.com/profile_images/860846388984381440/Oa5pCUWR_normal.jpg",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/860846388984381440/Oa5pCUWR_normal.jpg",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/1331825496/1371056737",
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Tue Jul 21 12:54:36 +0000 2020",
+		"id": 1285558798179020801,
+		"id_str": "1285558798179020801",
+		"text": "So, it's a Trump Rally.",
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1205226529455632385,
+			"id_str": "1205226529455632385",
+			"name": "The Lincoln Project",
+			"screen_name": "ProjectLincoln",
+			"location": "The United States of America",
+			"url": "http://www.lincolnproject.us",
+			"description": "\"You cannot escape the responsibility of tomorrow by evading it today.” – Abraham Lincoln",
+			"translator_type": "none",
+			"protected": false,
+			"verified": false,
+			"followers_count": 1571505,
+			"friends_count": 291,
+			"listed_count": 3789,
+			"favourites_count": 1368,
+			"statuses_count": 3165,
+			"created_at": "Thu Dec 12 20:43:08 +0000 2019",
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": "",
+			"profile_background_image_url_https": "",
+			"profile_background_tile": false,
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207303270500356097/JpVHUYEE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207303270500356097/JpVHUYEE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1205226529455632385/1593469425",
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": null,
+			"follow_request_sent": null,
+			"notifications": null
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"quoted_status_id": 1285558658848481281,
+		"quoted_status_id_str": "1285558658848481281",
+		"quoted_status": {
+			"created_at": "Tue Jul 21 12:54:03 +0000 2020",
+			"id": 1285558658848481281,
+			"id_str": "1285558658848481281",
+			"text": "No White House coronavirus task force members are currently expected to join President Trump's briefing… https://t.co/JaIMqLcR1d",
+			"display_text_range": [
+				0,
+				140
+			],
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"truncated": true,
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13850422,
+				"id_str": "13850422",
+				"name": "CNN Politics",
+				"screen_name": "CNNPolitics",
+				"location": "Washington, DC",
+				"url": "http://cnn.com/politics",
+				"description": "Political news, campaign stories and Washington coverage from CNN Politics.",
+				"translator_type": "none",
+				"protected": false,
+				"verified": true,
+				"followers_count": 3638636,
+				"friends_count": 343,
+				"listed_count": 17310,
+				"favourites_count": 4,
+				"statuses_count": 182915,
+				"created_at": "Sat Feb 23 03:12:49 +0000 2008",
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"profile_background_color": "100F14",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F1F5E7",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13850422/1503504077",
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"extended_tweet": {
+				"full_text": "No White House coronavirus task force members are currently expected to join President Trump's briefing https://t.co/RARXfDA4gb https://t.co/DH8AgwDg4q",
+				"display_text_range": [
+					0,
+					127
+				],
+				"entities": {
+					"hashtags": [],
+					"urls": [
+						{
+							"url": "https://t.co/RARXfDA4gb",
+							"expanded_url": "https://cnn.it/2CXcd5W",
+							"display_url": "cnn.it/2CXcd5W",
+							"indices": [
+								104,
+								127
+							]
+						}
+					],
+					"user_mentions": [],
+					"symbols": [],
+					"media": [
+						{
+							"id": 1285558657258856448,
+							"id_str": "1285558657258856448",
+							"indices": [
+								128,
+								151
+							],
+							"media_url": "http://pbs.twimg.com/media/Edc4yZ_XoAAWATf.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Edc4yZ_XoAAWATf.jpg",
+							"url": "https://t.co/DH8AgwDg4q",
+							"display_url": "pic.twitter.com/DH8AgwDg4q",
+							"expanded_url": "https://twitter.com/CNNPolitics/status/1285558658848481281/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1100,
+									"h": 619,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1100,
+									"h": 619,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1285558657258856448,
+							"id_str": "1285558657258856448",
+							"indices": [
+								128,
+								151
+							],
+							"media_url": "http://pbs.twimg.com/media/Edc4yZ_XoAAWATf.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Edc4yZ_XoAAWATf.jpg",
+							"url": "https://t.co/DH8AgwDg4q",
+							"display_url": "pic.twitter.com/DH8AgwDg4q",
+							"expanded_url": "https://twitter.com/CNNPolitics/status/1285558658848481281/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1100,
+									"h": 619,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1100,
+									"h": 619,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				}
+			},
+			"quote_count": 1053,
+			"reply_count": 2397,
+			"retweet_count": 837,
+			"favorite_count": 1538,
+			"entities": {
+				"hashtags": [],
+				"urls": [
+					{
+						"url": "https://t.co/JaIMqLcR1d",
+						"expanded_url": "https://twitter.com/i/web/status/1285558658848481281",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				],
+				"user_mentions": [],
+				"symbols": []
+			},
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"filter_level": "low",
+			"lang": "en"
+		},
+		"quoted_status_permalink": {
+			"url": "https://t.co/EC4BCayXxk",
+			"expanded": "https://twitter.com/CNNPolitics/status/1285558658848481281",
+			"display": "twitter.com/CNNPolitics/st…"
+		},
+		"is_quote_status": true,
+		"quote_count": 933,
+		"reply_count": 3340,
+		"retweet_count": 10751,
+		"favorite_count": 49234,
+		"entities": {
+			"hashtags": [],
+			"urls": [],
+			"user_mentions": [],
+			"symbols": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"filter_level": "low",
+		"lang": "en"
+	},
+	"quoted_status_id": 1285558658848481281,
+	"quoted_status_id_str": "1285558658848481281",
+	"quoted_status": {
+		"created_at": "Tue Jul 21 12:54:03 +0000 2020",
+		"id": 1285558658848481281,
+		"id_str": "1285558658848481281",
+		"text": "No White House coronavirus task force members are currently expected to join President Trump's briefing… https://t.co/JaIMqLcR1d",
+		"display_text_range": [
+			0,
+			140
+		],
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"truncated": true,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13850422,
+			"id_str": "13850422",
+			"name": "CNN Politics",
+			"screen_name": "CNNPolitics",
+			"location": "Washington, DC",
+			"url": "http://cnn.com/politics",
+			"description": "Political news, campaign stories and Washington coverage from CNN Politics.",
+			"translator_type": "none",
+			"protected": false,
+			"verified": true,
+			"followers_count": 3638636,
+			"friends_count": 343,
+			"listed_count": 17310,
+			"favourites_count": 4,
+			"statuses_count": 182915,
+			"created_at": "Sat Feb 23 03:12:49 +0000 2008",
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"profile_background_color": "100F14",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F1F5E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13850422/1503504077",
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": null,
+			"follow_request_sent": null,
+			"notifications": null
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"extended_tweet": {
+			"full_text": "No White House coronavirus task force members are currently expected to join President Trump's briefing https://t.co/RARXfDA4gb https://t.co/DH8AgwDg4q",
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"urls": [
+					{
+						"url": "https://t.co/RARXfDA4gb",
+						"expanded_url": "https://cnn.it/2CXcd5W",
+						"display_url": "cnn.it/2CXcd5W",
+						"indices": [
+							104,
+							127
+						]
+					}
+				],
+				"user_mentions": [],
+				"symbols": [],
+				"media": [
+					{
+						"id": 1285558657258856448,
+						"id_str": "1285558657258856448",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/media/Edc4yZ_XoAAWATf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Edc4yZ_XoAAWATf.jpg",
+						"url": "https://t.co/DH8AgwDg4q",
+						"display_url": "pic.twitter.com/DH8AgwDg4q",
+						"expanded_url": "https://twitter.com/CNNPolitics/status/1285558658848481281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1100,
+								"h": 619,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 619,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1285558657258856448,
+						"id_str": "1285558657258856448",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/media/Edc4yZ_XoAAWATf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Edc4yZ_XoAAWATf.jpg",
+						"url": "https://t.co/DH8AgwDg4q",
+						"display_url": "pic.twitter.com/DH8AgwDg4q",
+						"expanded_url": "https://twitter.com/CNNPolitics/status/1285558658848481281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1100,
+								"h": 619,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1100,
+								"h": 619,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			}
+		},
+		"quote_count": 1053,
+		"reply_count": 2397,
+		"retweet_count": 837,
+		"favorite_count": 1538,
+		"entities": {
+			"hashtags": [],
+			"urls": [
+				{
+					"url": "https://t.co/JaIMqLcR1d",
+					"expanded_url": "https://twitter.com/i/web/status/1285558658848481281",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"user_mentions": [],
+			"symbols": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"filter_level": "low",
+		"lang": "en"
+	},
+	"quoted_status_permalink": {
+		"url": "https://t.co/EC4BCayXxk",
+		"expanded": "https://twitter.com/CNNPolitics/status/1285558658848481281",
+		"display": "twitter.com/CNNPolitics/st…"
+	},
+	"is_quote_status": true,
+	"quote_count": 0,
+	"reply_count": 0,
+	"retweet_count": 0,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [],
+		"urls": [],
+		"user_mentions": [
+			{
+				"screen_name": "ProjectLincoln",
+				"name": "The Lincoln Project",
+				"id": 1205226529455632385,
+				"id_str": "1205226529455632385",
+				"indices": [
+					3,
+					18
+				]
+			}
+		],
+		"symbols": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"filter_level": "low",
+	"lang": "en",
+	"timestamp_ms": "1595346916740"
+}

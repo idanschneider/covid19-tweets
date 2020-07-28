@@ -1,0 +1,363 @@
+{
+	"created_at": "Tue Jul 21 15:55:16 +0000 2020",
+	"id": 1285604264698617858,
+	"id_str": "1285604264698617858",
+	"text": "RT @TeamTrump: White House Press Secretary @KayleighMcEnany: “The media has tried to scare the American people” about the coronavirus https…",
+	"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 876789186908622849,
+		"id_str": "876789186908622849",
+		"name": "Steve Tarantino",
+		"screen_name": "SteveTarantino1",
+		"location": null,
+		"url": null,
+		"description": null,
+		"translator_type": "none",
+		"protected": false,
+		"verified": false,
+		"followers_count": 210,
+		"friends_count": 124,
+		"listed_count": 1,
+		"favourites_count": 117028,
+		"statuses_count": 96794,
+		"created_at": "Mon Jun 19 13:10:06 +0000 2017",
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"profile_background_color": "F5F8FA",
+		"profile_background_image_url": "",
+		"profile_background_image_url_https": "",
+		"profile_background_tile": false,
+		"profile_link_color": "1DA1F2",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+		"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+		"default_profile": true,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Tue Jul 21 15:46:39 +0000 2020",
+		"id": 1285602094783901696,
+		"id_str": "1285602094783901696",
+		"text": "White House Press Secretary @KayleighMcEnany: “The media has tried to scare the American people” about the coronavi… https://t.co/LyVwTKMiCR",
+		"display_text_range": [
+			0,
+			140
+		],
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"truncated": true,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729676086632656900,
+			"id_str": "729676086632656900",
+			"name": "Team Trump (Text TRUMP to 88022)",
+			"screen_name": "TeamTrump",
+			"location": "USA",
+			"url": "http://www.DonaldJTrump.com",
+			"description": "The official Twitter for the Trump Campaign. Together, we will KEEP AMERICA GREAT! 🇺🇸",
+			"translator_type": "none",
+			"protected": false,
+			"verified": true,
+			"followers_count": 1971820,
+			"friends_count": 123,
+			"listed_count": 3796,
+			"favourites_count": 3404,
+			"statuses_count": 23443,
+			"created_at": "Mon May 09 14:15:10 +0000 2016",
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_link_color": "CB0606",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1588979102",
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": null,
+			"follow_request_sent": null,
+			"notifications": null
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"extended_tweet": {
+			"full_text": "White House Press Secretary @KayleighMcEnany: “The media has tried to scare the American people” about the coronavirus https://t.co/DxQnMarBER",
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"urls": [],
+				"user_mentions": [
+					{
+						"screen_name": "kayleighmcenany",
+						"name": "Kayleigh McEnany",
+						"id": 259001548,
+						"id_str": "259001548",
+						"indices": [
+							28,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"media": [
+					{
+						"id": 1285601847894593538,
+						"id_str": "1285601847894593538",
+						"indices": [
+							119,
+							142
+						],
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						},
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1285601847894593538/img/9dsajBeeSsArnsbg.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1285601847894593538/img/9dsajBeeSsArnsbg.jpg",
+						"url": "https://t.co/DxQnMarBER",
+						"display_url": "pic.twitter.com/DxQnMarBER",
+						"expanded_url": "https://twitter.com/TeamTrump/status/1285602094783901696/video/1",
+						"type": "video",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 43277,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1285601847894593538/vid/1280x720/fB7YG67ByKVm376F.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1285601847894593538/pl/sBoWcv790iA4XPWB.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1285601847894593538/vid/480x270/FuouKuBa5HHBqHkD.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1285601847894593538/vid/640x360/gWplcQFvBC3NZOfr.mp4?tag=13"
+								}
+							]
+						},
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1285601847894593538,
+						"id_str": "1285601847894593538",
+						"indices": [
+							119,
+							142
+						],
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						},
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1285601847894593538/img/9dsajBeeSsArnsbg.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1285601847894593538/img/9dsajBeeSsArnsbg.jpg",
+						"url": "https://t.co/DxQnMarBER",
+						"display_url": "pic.twitter.com/DxQnMarBER",
+						"expanded_url": "https://twitter.com/TeamTrump/status/1285602094783901696/video/1",
+						"type": "video",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 43277,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1285601847894593538/vid/1280x720/fB7YG67ByKVm376F.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1285601847894593538/pl/sBoWcv790iA4XPWB.m3u8?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1285601847894593538/vid/480x270/FuouKuBa5HHBqHkD.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1285601847894593538/vid/640x360/gWplcQFvBC3NZOfr.mp4?tag=13"
+								}
+							]
+						},
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			}
+		},
+		"quote_count": 10,
+		"reply_count": 40,
+		"retweet_count": 174,
+		"favorite_count": 423,
+		"entities": {
+			"hashtags": [],
+			"urls": [
+				{
+					"url": "https://t.co/LyVwTKMiCR",
+					"expanded_url": "https://twitter.com/i/web/status/1285602094783901696",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"user_mentions": [
+				{
+					"screen_name": "kayleighmcenany",
+					"name": "Kayleigh McEnany",
+					"id": 259001548,
+					"id_str": "259001548",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"symbols": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"filter_level": "low",
+		"lang": "en"
+	},
+	"is_quote_status": false,
+	"quote_count": 0,
+	"reply_count": 0,
+	"retweet_count": 0,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [],
+		"urls": [],
+		"user_mentions": [
+			{
+				"screen_name": "TeamTrump",
+				"name": "Team Trump (Text TRUMP to 88022)",
+				"id": 729676086632656900,
+				"id_str": "729676086632656900",
+				"indices": [
+					3,
+					13
+				]
+			},
+			{
+				"screen_name": "kayleighmcenany",
+				"name": "Kayleigh McEnany",
+				"id": 259001548,
+				"id_str": "259001548",
+				"indices": [
+					43,
+					59
+				]
+			}
+		],
+		"symbols": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"filter_level": "low",
+	"lang": "en",
+	"timestamp_ms": "1595346916733"
+}

@@ -1,0 +1,51 @@
+URL To get this:
+http://localhost:9200/covid19-tweets/
+
+{
+    "covid19-tweets": {
+        "aliases": {},
+        "mappings": {
+            "properties": {
+                "lang": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword",
+                            "ignore_above": 256
+                        }
+                    }
+                },
+                "text": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword",
+                            "ignore_above": 256
+                        }
+                    }
+                },
+                "timestamp_ms": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": {
+                            "type": "keyword",
+                            "ignore_above": 256
+                        }
+                    }
+                }
+            }
+        },
+        "settings": {
+            "index": {
+                "creation_date": "1595364278465",
+                "number_of_shards": "1",
+                "number_of_replicas": "1",
+                "uuid": "mUDIltAIQaO9dNIoQviBsw",
+                "version": {
+                    "created": "7080099"
+                },
+                "provided_name": "covid19-tweets"
+            }
+        }
+    }
+}
