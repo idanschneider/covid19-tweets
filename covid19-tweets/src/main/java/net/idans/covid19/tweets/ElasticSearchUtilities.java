@@ -1,6 +1,11 @@
 package net.idans.covid19.tweets;
 
+
 import java.io.IOException;
+import java.util.Arrays;
+import java.util.List;
+import java.util.concurrent.TimeUnit;
+import java.util.stream.Collectors;
 
 import org.apache.http.HttpHost;
 import org.apache.http.auth.AuthScope;
@@ -10,13 +15,19 @@ import org.apache.http.impl.client.BasicCredentialsProvider;
 import org.apache.http.impl.nio.client.HttpAsyncClientBuilder;
 import org.elasticsearch.action.index.IndexRequest;
 import org.elasticsearch.action.index.IndexResponse;
+import org.elasticsearch.action.search.SearchRequest;
+import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.client.RequestOptions;
 import org.elasticsearch.client.RestClient;
 import org.elasticsearch.client.RestClientBuilder;
 import org.elasticsearch.client.RestHighLevelClient;
 import org.elasticsearch.client.indices.CreateIndexRequest;
 import org.elasticsearch.client.indices.CreateIndexResponse;
+import org.elasticsearch.common.unit.TimeValue;
 import org.elasticsearch.common.xcontent.XContentType;
+import org.elasticsearch.index.query.QueryBuilders;
+import org.elasticsearch.search.SearchHit;
+import org.elasticsearch.search.builder.SearchSourceBuilder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -24,7 +35,7 @@ public class ElasticSearchUtilities implements IKafkaTweetExporter {
 	
 	private static Logger logger = LoggerFactory.getLogger(ElasticSearchUtilities.class.getName());
 	
-	public static final String COVID19_TWEETS_INDEX_NAME = "covid19-tweets";
+//	public static final String COVID19_TWEETS_INDEX_NAME = "covid19-tweets";
 	
 	
 	public static RestHighLevelClient restHighLevelClient = null;
@@ -158,7 +169,7 @@ public class ElasticSearchUtilities implements IKafkaTweetExporter {
 		//http://localhost:9200/covid19-tweets/_doc/tweet-12345
 		
 		//IndexRequest indexRequest = new IndexRequest("covid19-tweets/_doc/tweet-"+tweetId);
-		IndexRequest indexRequest = new IndexRequest(COVID19_TWEETS_INDEX_NAME);
+		IndexRequest indexRequest = new IndexRequest(Covid19Consts.ES_COVID19_TWEETS_INDEX_NAME);
 		
 		 indexRequest.id("tweet-"+tweetId);
 //		 String jsonSourceString = "{" +
@@ -199,6 +210,79 @@ public class ElasticSearchUtilities implements IKafkaTweetExporter {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	}
+	
+	
+	//read from ES
+	public static SearchHit[] searchText(String indexName, String searchText, int maxHits)
+	{
+		RestHighLevelClient client = createHighLevelClientNoAuthentication();
+		
+		try
+		{
+			
+			SearchRequest searchRequest = new SearchRequest(indexName); //search only our table
+			
+			SearchSourceBuilder searchSourceBuilder = new SearchSourceBuilder(); 
+			//parameters for source builder
+			searchSourceBuilder.query(QueryBuilders.termQuery("text", searchText));
+//			searchSourceBuilder.query(QueryBuilders..termQuery("lang", "en"));
+			
+			searchSourceBuilder.from(0); //determines the result index to start searching from. Defaults to 0.
+			
+			if (maxHits > 0)
+			{
+				searchSourceBuilder.size(maxHits); //return maximum of 20 hits
+			}
+				
+			
+			
+			searchSourceBuilder.timeout(new TimeValue(60, TimeUnit.SECONDS)); 
+			
+			
+			//searchSourceBuilder.query(QueryBuilders.matchAllQuery()); 
+			searchRequest.source(searchSourceBuilder); 
+			
+			
+	//		SearchResponse response = client.prepareSearch("index1", "index2")
+	//		        .setSearchType(SearchType.DFS_QUERY_THEN_FETCH)
+	//		        .setQuery(QueryBuilders.termQuery("multi", "test"))                 // Query
+	//		        .setPostFilter(QueryBuilders.rangeQuery("age").from(12).to(18))     // Filter
+	//		        .setFrom(0).setSize(60).setExplain(true)
+	//		        .get();
+			
+			
+			SearchResponse response = client.search(searchRequest, RequestOptions.DEFAULT);
+			SearchHit[] searchHits = response.getHits().getHits();
+			
+			
+	//		List<String> results = Arrays.stream(searchHits)
+	//								.map(hit -> JSON.parseObject(hit.getSourceAsString(), String.class))
+	//								.collect(Collectors.toList());
+			
+			return searchHits;
+		}
+		catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		finally
+		{
+			if (client!=null)
+			{
+				try {
+					client.close();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+		}
+		return null;
+			
+		
+		
+		
 	}
 
 }

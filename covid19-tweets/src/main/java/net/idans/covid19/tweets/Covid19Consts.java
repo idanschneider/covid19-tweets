@@ -17,6 +17,9 @@ public class Covid19Consts {
 	public final static String COVID19_CSV_TIMESTAMP_MS_COLUMN_NAME = "timestamp_ms";
 	public final static String COVID19_CSV_TWEET_JSON_COLUMN_NAME = "tweet_json";
 	
+	//ELASTIC SEARCH
+	public static final String ES_COVID19_TWEETS_INDEX_NAME = "covid19-tweets";
+	
 	
 	public final static String APP_NAME_COVID19_INGESTION = "covid19-ingestion-app";
 
